@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.27.1](https://github.com/Gitlawb/openclaude/compare/v0.27.0...v0.27.1) (2026-08-03)
+
+
+### Bug Fixes
+
+* **web:** add v0.27.0 changelog entry and clarify release-data ownership ([#2075](https://github.com/Gitlawb/openclaude/issues/2075)) ([63fda83](https://github.com/Gitlawb/openclaude/commit/63fda83d5578ddcc251eefa0c6800a85913895b5))
+
 ## [0.27.0](https://github.com/Gitlawb/openclaude/compare/v0.26.0...v0.27.0) (2026-07-30)
 
 
